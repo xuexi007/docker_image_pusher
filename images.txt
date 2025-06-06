@@ -1,11 +1,11 @@
-nginx
-linzeyi/hivision_idphotos:latest
-onerahmet/openai-whisper-asr-webservice:latest
-fooololo/aipan-netdisk-search:latest
+#nginx
+#linzeyi/hivision_idphotos:latest
+#onerahmet/openai-whisper-asr-webservice:latest
+#fooololo/aipan-netdisk-search:latest
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nacos/nacos-server:2.2.3
+nacos/nacos-server:v2.2.3
