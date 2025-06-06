@@ -8,3 +8,4 @@ fooololo/aipan-netdisk-search:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+nacos/nacos-server:2.2.3
